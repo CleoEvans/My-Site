@@ -5,19 +5,51 @@ background-color: #CFF5E7;
 
 }
 
-h1{
-margin: 0px;
+#no:hover{
+color: #66bfbf;
+
  
    }
 
+   h1{
+      margin: 0px;
+   }
 body{
 
    margin: 0px;
    }
 
 .new{
-
+padding: 10px;
 text-align: center;
 font-style:italic;
 
 }
+
+#nope:hover{
+   
+color: goldenrod;
+
+}
+
+.good{
+
+
+}
+
+.bottom {
+  
+   width: 200px;
+   height: 200px;
+background-color: red;
+
+}
+
+.top{
+
+   margin-left: ;
+   width: 200px;
+   height: 200px;
+   background-color: blue;
+}
+
