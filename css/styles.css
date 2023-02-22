@@ -1,55 +1,85 @@
 
 div{
    margin: 0px;
-background-color: #CFF5E7;
+background-color:#A0E4CB;
 
 }
 
 #no:hover{
-color: #66bfbf;
-
- 
-   }
+color: #78DEC7;
+}
 
    h1{
       margin: 0px;
-   }
+       }
 body{
-
-   margin: 0px;
+background-color:#CBEDD5;
+ margin: 0px;
    }
 
 .new{
 padding: 10px;
 text-align: center;
-font-style:italic;
-
 }
 
 #nope:hover{
    
-color: goldenrod;
+color: #78DEC7;
 
 }
 
-.good{
+.good {
 
-
+background-color: #CBEDD5;
 }
 
 .bottom {
-  
-   width: 200px;
-   height: 200px;
-background-color: red;
-
+   -webkit-text-fill-color: white;
+  margin-left: 760px;
+   width: 300px;
+   height: 300px;
+background-color: #A0E4CB;
+margin-right: 200px;
+padding: 20px;
+text-align: center;
 }
 
 .top{
 
-   margin-left: ;
-   width: 200px;
-   height: 200px;
-   background-color: blue;
+   margin-left: 200px;
+   width: 300px;
+   height:300px;
+   background-color: #A0E4CB;
+   padding: 20px;
+   text-align: center;
+   -webkit-text-fill-color: white;
+
 }
+
+h1{
+font-family: 'serif';
+}
+
+.great{
+width:300px;
+background-color: #A0E4CB;
+height: 300px;
+margin-left: 200px;
+padding: 20px;
+text-align: center;
+-webkit-text-fill-color: white;
+}
+
+h3{
+
+
+
+}
+
+
+
+
+
+
+
 
